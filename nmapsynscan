@@ -1,0 +1,1 @@
+nmap -sS -sV --version-intensity 5 -p 1-65535 -oX scan_results.xml target_ip_address
